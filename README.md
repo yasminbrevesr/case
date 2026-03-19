@@ -39,8 +39,9 @@ Objetivo:
 ## Adicionais:
 A estrutura do dashboard foi dividida em dois painéis explicativos, com o objetivo de fornecer mais informações ao usuário. Todos os ícones foram configurados como interativos     (clicáveis), permitindo uma navegação mais intuitiva.
 
-  ![Captura de tela 2026-03-19 113314](https://github.com/user-attachments/assets/f3161cd1-cd8a-4172-915a-fe23f5b0e7ce)
 
+
+![Captura de tela 2026-03-19 113314](https://github.com/user-attachments/assets/60578d46-948d-4b6e-add7-5989e2ea6c69)
 
 
 
