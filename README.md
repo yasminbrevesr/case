@@ -25,8 +25,9 @@ Objetivo:
 👉 [Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjMzNDIyZmItNjg1Ny00NGViLTkwNGUtOWM1MWJlY2E5YjEwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=a4bfe55e2f69635d53cb)
 
 
-<img width="4536" height="2795" alt="Capa" src="https://github.com/user-attachments/assets/e84a459b-3260-4f62-8a30-47cf27e3e362" />
 
+
+<img width="4536" height="2795" alt="Capa" src="https://github.com/user-attachments/assets/ff572c4f-99bf-47a0-a767-95a38c1540ba" />
 
 
 
